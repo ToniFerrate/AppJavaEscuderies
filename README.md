@@ -1,0 +1,2 @@
+# AppEscuderies
+ App gestió escuderies
